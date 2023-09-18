@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 Zhang Zhi
 
-Wait excellent Backend developer!
+Wait an excellent Backend developer!
